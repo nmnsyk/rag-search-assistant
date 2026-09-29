@@ -1,4 +1,4 @@
-# RAG-Based Search Assistant for Experiment Data
+# AI-Powered-Search-Assistant-Using-Retrieval-Augmented-Generation-RAG-and-Dynamic-Metadata-Filtering
 
 This project implements an AI-powered search assistant for scientific experiment data. The search pipeline combines BM25-based lexical search, semantic search with ChromaDB, dynamic metadata filtering, and a locally running Large Language Model.
 
