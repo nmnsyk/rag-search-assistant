@@ -1,0 +1,7 @@
+chromadb
+ollama
+rank-bm25
+pandas
+requests
+pypdf
+sentence-transformers

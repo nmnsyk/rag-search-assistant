@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "anonymized_001",
+    "experiment": "P-EXAMPLE-001",
+    "title": "Untersuchung der Pendelschwingung",
+    "last_date_modified": "2026-01-01T00:00:00.000Z",
+    "translations": [
+      {
+        "language_code": "DEU",
+        "desc_1": "Untersuchung der Pendelschwingung",
+        "desc_2": ""
+      },
+      {
+        "language_code": "ENU",
+        "desc_1": "Investigation of pendulum oscillation",
+        "desc_2": ""
+      }
+    ],
+    "files": [
+      {
+        "language_code": "DEU",
+        "file_url": "https://example.invalid/files/experiment_001_de.pdf",
+        "type": "other"
+      }
+    ],
+    "categories": [
+      "CATEGORY_A;SUBCATEGORY_1;..."
+    ],
+    "characteristics": [
+      {
+        "characteristic_code": "CODE_01",
+        "main_characteristic": "Fachbereich",
+        "sub_characteristic": "Fachbereich",
+        "value_1": "Physik",
+        "value_2": "",
+        "value_3": ""
+      },
+      {
+        "characteristic_code": "CODE_02",
+        "main_characteristic": "Fachbereich",
+        "sub_characteristic": "Lehrplanthema",
+        "value_1": "Mechanik",
+        "value_2": "",
+        "value_3": ""
+      },
+      {
+        "characteristic_code": "...",
+        "main_characteristic": "...",
+        "sub_characteristic": "...",
+        "value_1": "...",
+        "value_2": "",
+        "value_3": ""
+      }
+    ]
+  },
+  {
+    "_id": "anonymized_002",
+    "experiment": "P-EXAMPLE-002",
+    "title": "Bestimmung der Fallbeschleunigung",
+    "last_date_modified": "2026-01-01T00:00:00.000Z",
+    "translations": [
+      {
+        "language_code": "DEU",
+        "desc_1": "Bestimmung der Fallbeschleunigung",
+        "desc_2": ""
+      },
+      {
+        "language_code": "ENU",
+        "desc_1": "Determination of gravitational acceleration",
+        "desc_2": ""
+      }
+    ],
+    "files": [
+      {
+        "language_code": "DEU",
+        "file_url": "https://example.invalid/files/experiment_002_de.pdf",
+        "type": "other"
+      }
+    ],
+    "categories": [
+      "CATEGORY_B;SUBCATEGORY_2;..."
+    ],
+    "characteristics": [
+      {
+        "characteristic_code": "CODE_01",
+        "main_characteristic": "Fachbereich",
+        "sub_characteristic": "Fachbereich",
+        "value_1": "Physik",
+        "value_2": "",
+        "value_3": ""
+      },
+      {
+        "characteristic_code": "CODE_02",
+        "main_characteristic": "Fachbereich",
+        "sub_characteristic": "Lehrplanthema",
+        "value_1": "Mechanik",
+        "value_2": "",
+        "value_3": ""
+      },
+      {
+        "characteristic_code": "...",
+        "main_characteristic": "...",
+        "sub_characteristic": "...",
+        "value_1": "...",
+        "value_2": "",
+        "value_3": ""
+      }
+    ]
+  }
+]
